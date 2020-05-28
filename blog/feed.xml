@@ -4,7 +4,7 @@
         <title>Mocker Apps Blog</title>
         <link>http://softon.github.io/mocker-docs/blog</link>
         <description>The best place to stay up-to-date with the latest Mocker Apps news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,43 +14,60 @@
         </image>
         <copyright>Copyright © 2020 Shiburaj</copyright>
         <item>
-            <title><![CDATA[New Version 1.0.0]]></title>
-            <link>http://softon.github.io/mocker-docs/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>http://softon.github.io/mocker-docs/blog/2017/10/24/new-version-1.0.0.html</guid>
-            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></description>
+            <title><![CDATA[API Released]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/05/28/eight-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/05/28/eight-release.html</guid>
+            <pubDate>Thu, 28 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Api access is enabled for URL Shortner, Clipboard, and Polls.</p> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Adding RSS Support]]></title>
-            <link>http://softon.github.io/mocker-docs/blog/2017/09/26/adding-rss.html</link>
-            <guid>http://softon.github.io/mocker-docs/blog/2017/09/26/adding-rss.html</guid>
-            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
+            <title><![CDATA[Socket.io for Polls]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/05/23/seventh-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/05/23/seventh-release.html</guid>
+            <pubDate>Sat, 23 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Realtime polls with the help of Socket.io.</p> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-            <link>http://softon.github.io/mocker-docs/blog/2017/09/25/testing-rss.html</link>
-            <guid>http://softon.github.io/mocker-docs/blog/2017/09/25/testing-rss.html</guid>
-            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></description>
+            <title><![CDATA[Multiple Answers in Polls]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/05/20/sixth-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/05/20/sixth-release.html</guid>
+            <pubDate>Wed, 20 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Added feature to allow multiple options to be selected by user during voting.</p> ]]></description>
         </item>
         <item>
-            <title><![CDATA[New Blog Post]]></title>
-            <link>http://softon.github.io/mocker-docs/blog/2017/04/10/blog-post-two.html</link>
-            <guid>http://softon.github.io/mocker-docs/blog/2017/04/10/blog-post-two.html</guid>
-            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
+            <title><![CDATA[Poll Password and Embedding]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/05/19/fifth-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/05/19/fifth-release.html</guid>
+            <pubDate>Tue, 19 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Added feature to lock the poll with a password so that only authorized users can only vote. Also the panel generates embbed code to allow the poll creators to show the results on their website.</p> ]]></description>
         </item>
         <item>
-            <title><![CDATA[Blog Title]]></title>
-            <link>http://softon.github.io/mocker-docs/blog/2016/03/11/blog-post.html</link>
-            <guid>http://softon.github.io/mocker-docs/blog/2016/03/11/blog-post.html</guid>
-            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
+            <title><![CDATA[Live Polling Feature]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/05/16/fourth-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/05/16/fourth-release.html</guid>
+            <pubDate>Sat, 16 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Live Polling Feature added to take instantaneous polls.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[URL Meta Extraction]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/04/07/third-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/04/07/third-release.html</guid>
+            <pubDate>Tue, 07 Apr 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Added features to extract Meta information of the URL to enable better sharing. Form based redirection method.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[URL Shortner and Clipboard Feature]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2020/04/04/second-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2020/04/04/second-release.html</guid>
+            <pubDate>Sat, 04 Apr 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Added features like URL Shortner and Clipboard.</p> <ul> <li>URL Shortner : This feature allows to make short url from long urls</li> <li>Clipboard : This feature enables users to share text to others in a nicely formated way. With syntax highlighting.</li> </ul> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[First Release]]></title>
+            <link>http://softon.github.io/mocker-docs/blog/2017/12/05/first-release.html</link>
+            <guid>http://softon.github.io/mocker-docs/blog/2017/12/05/first-release.html</guid>
+            <pubDate>Tue, 05 Dec 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The first release with added support for following:</p> <ul> <li>Payment Mocker Service</li> <li>SMS Mocker Service</li> </ul> ]]></description>
         </item>
     </channel>
 </rss>

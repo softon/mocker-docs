@@ -2,74 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://softon.github.io/mocker-docs/blog</id>
     <title>Mocker Apps Blog</title>
-    <updated>2017-10-24T06:00:00.000Z</updated>
+    <updated>2020-05-28T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://softon.github.io/mocker-docs/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Mocker Apps news and events.</subtitle>
     <logo>http://softon.github.io/mocker-docs//img/mocker-logo.png</logo>
     <rights>Copyright © 2020 Shiburaj</rights>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>http://softon.github.io/mocker-docs/blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="http://softon.github.io/mocker-docs/blog/2017/10/24/new-version-1.0.0.html"/>
-        <updated>2017-10-24T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <title type="html"><![CDATA[API Released]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/05/28/eight-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/05/28/eight-release.html"/>
+        <updated>2020-05-28T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Api access is enabled for URL Shortner, Clipboard, and Polls.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
+            <name>Shiburaj Pappu</name>
             <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <uri>https://shiburaj.com</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>http://softon.github.io/mocker-docs/blog/2017/09/26/adding-rss.html</id>
-        <link href="http://softon.github.io/mocker-docs/blog/2017/09/26/adding-rss.html"/>
-        <updated>2017-09-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
+        <title type="html"><![CDATA[Socket.io for Polls]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/05/23/seventh-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/05/23/seventh-release.html"/>
+        <updated>2020-05-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Realtime polls with the help of Socket.io.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
+            <name>Shiburaj Pappu</name>
             <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <uri>https://shiburaj.com</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>http://softon.github.io/mocker-docs/blog/2017/09/25/testing-rss.html</id>
-        <link href="http://softon.github.io/mocker-docs/blog/2017/09/25/testing-rss.html"/>
-        <updated>2017-09-25T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></summary>
+        <title type="html"><![CDATA[Multiple Answers in Polls]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/05/20/sixth-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/05/20/sixth-release.html"/>
+        <updated>2020-05-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Added feature to allow multiple options to be selected by user during voting.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
+            <name>Shiburaj Pappu</name>
             <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <uri>https://shiburaj.com</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>http://softon.github.io/mocker-docs/blog/2017/04/10/blog-post-two.html</id>
-        <link href="http://softon.github.io/mocker-docs/blog/2017/04/10/blog-post-two.html"/>
-        <updated>2017-04-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
+        <title type="html"><![CDATA[Poll Password and Embedding]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/05/19/fifth-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/05/19/fifth-release.html"/>
+        <updated>2020-05-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Added feature to lock the poll with a password so that only authorized users can only vote. Also the panel generates embbed code to allow the poll creators to show the results on their website.</p> ]]></summary>
         <author>
-            <name>Blog Author</name>
+            <name>Shiburaj Pappu</name>
             <email/>
-            <uri>http://twitter.com/</uri>
+            <uri>https://shiburaj.com</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blog Title]]></title>
-        <id>http://softon.github.io/mocker-docs/blog/2016/03/11/blog-post.html</id>
-        <link href="http://softon.github.io/mocker-docs/blog/2016/03/11/blog-post.html"/>
-        <updated>2016-03-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
+        <title type="html"><![CDATA[Live Polling Feature]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/05/16/fourth-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/05/16/fourth-release.html"/>
+        <updated>2020-05-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Live Polling Feature added to take instantaneous polls.</p> ]]></summary>
         <author>
-            <name>Blog Author</name>
+            <name>Shiburaj Pappu</name>
             <email/>
-            <uri>http://twitter.com/</uri>
+            <uri>https://shiburaj.com</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL Meta Extraction]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/04/07/third-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/04/07/third-release.html"/>
+        <updated>2020-04-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Added features to extract Meta information of the URL to enable better sharing. Form based redirection method.</p> ]]></summary>
+        <author>
+            <name>Shiburaj Pappu</name>
+            <email/>
+            <uri>https://shiburaj.com</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL Shortner and Clipboard Feature]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2020/04/04/second-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2020/04/04/second-release.html"/>
+        <updated>2020-04-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Added features like URL Shortner and Clipboard.</p> <ul> <li>URL Shortner : This feature allows to make short url from long urls</li> <li>Clipboard : This feature enables users to share text to others in a nicely formated way. With syntax highlighting.</li> </ul> ]]></summary>
+        <author>
+            <name>Shiburaj Pappu</name>
+            <email/>
+            <uri>https://shiburaj.com</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Release]]></title>
+        <id>http://softon.github.io/mocker-docs/blog/2017/12/05/first-release.html</id>
+        <link href="http://softon.github.io/mocker-docs/blog/2017/12/05/first-release.html"/>
+        <updated>2017-12-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>The first release with added support for following:</p> <ul> <li>Payment Mocker Service</li> <li>SMS Mocker Service</li> </ul> ]]></summary>
+        <author>
+            <name>Shiburaj Pappu</name>
+            <email/>
+            <uri>https://shiburaj.com</uri>
         </author>
     </entry>
 </feed>
